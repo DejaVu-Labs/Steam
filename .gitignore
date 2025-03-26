@@ -1,4 +1,7 @@
-Binaries
+**/Binaries/**/*.pdb
+**/Binaries/**/*.lib
+**/Binaries/**/*.exp
+**/Binaries/**/*.exe
 DerivedDataCache
 Intermediate
 Saved
